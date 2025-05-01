@@ -6,3 +6,5 @@ iii. Instrucciones: Iterar el arreglo de entrada e ir actualizando una variable 
 ## Actividad 1: implemente su método
 ![image](https://github.com/user-attachments/assets/1356f375-0e42-490d-bf9b-d9cc45a2843f)
 
+## Actividad 2: Probando su código
+Caso de prueba 1: Arreglo con un solo elemento, el metodo deberia retornar solamente el valor de ese unico elemento y su test debe retornar el valor de ese elemento.
